@@ -1,2 +1,1 @@
-# wasm.builder.csharp
-c# dot net wasm builder file format 
+mini c compiler
